@@ -41,8 +41,7 @@ pip install -r requirements.txt
 ### Step 1: Start the API server
 
 ```bash
-cd api  # If not already in the API directory
-python app.py  # This will start the server on port 5050
+python asl_api.py  # This will start the server on port 5050
 ```
 
 ### Step 2: Start the frontend
